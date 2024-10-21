@@ -140,3 +140,8 @@ Copyright (c) 2024 [Nama Anda]
 Izinkan orang lain untuk mengubah, mendistribusikan, dan menggunakan kode ini selama memenuhi persyaratan lisensi berikut:
 1. Pemberitahuan hak cipta dan izin di dalam salinan kode harus disertakan dalam distribusi.
 2. Kode ini disediakan "sebagaimana adanya", tanpa jaminan apapun, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada jaminan perdagangan atau kesesuaian untuk tujuan tertentu.
+3. Dan jikalau ada yang tidak bisa pada halaman tertentu atau fitur tertentu, silahkan gunakan kemampuan anda untuk menyesuaikan sesuai kebutuhan anda
+
+## Terima kasih
+
+Hehehehe  
